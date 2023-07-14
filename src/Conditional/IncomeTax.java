@@ -5,7 +5,7 @@ public class IncomeTax {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
 
-        
+
         System.out.print("Enter your income : ");
         int income = sc.nextInt();
         int tax;
